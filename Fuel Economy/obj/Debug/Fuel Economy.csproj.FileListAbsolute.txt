@@ -1,0 +1,8 @@
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\Fuel Economy\Fuel Economy\bin\Debug\Fuel Economy.exe.config
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\Fuel Economy\Fuel Economy\bin\Debug\Fuel Economy.exe
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\Fuel Economy\Fuel Economy\bin\Debug\Fuel Economy.pdb
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\Fuel Economy\Fuel Economy\obj\Debug\Fuel_Economy.Form1.resources
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\Fuel Economy\Fuel Economy\obj\Debug\Fuel_Economy.Properties.Resources.resources
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\Fuel Economy\Fuel Economy\obj\Debug\Fuel Economy.csproj.GenerateResource.Cache
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\Fuel Economy\Fuel Economy\obj\Debug\Fuel Economy.exe
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\Fuel Economy\Fuel Economy\obj\Debug\Fuel Economy.pdb
